@@ -15,11 +15,11 @@
 	</logger>
 	
 	<logger name="org.springframework.core">
-		<level value="info" />
+		<level value="debug" />
 	</logger>
 	
 	<logger name="org.springframework.beans">
-		<level value="info" />
+		<level value="debug" />
 	</logger>
 	
 	<logger name="org.springframework.context">

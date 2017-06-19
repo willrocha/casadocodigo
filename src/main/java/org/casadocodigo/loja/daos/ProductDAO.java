@@ -13,7 +13,7 @@ public class ProductDAO {
 	@PersistenceContext
 	private EntityManager manager;
 	
-	public void save(Product prodcut){
-		manager.persist(prodcut);
+	public void save(Product produto){
+		manager.persist(produto);
 	}
 }
